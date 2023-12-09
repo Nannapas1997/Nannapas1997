@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nannapas1997&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,php,python,json,mysql,sass,react&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,bootstrap,tailwind,laravel&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
